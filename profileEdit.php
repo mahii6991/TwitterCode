@@ -117,7 +117,7 @@
 					<i class="fa fa-camera" aria-hidden="true"></i>
 				</label>
 				<span class="span-text1">
-					Change your profile photo
+					Update your profile
 				</span>
 				<input id="cover-upload-btn" type="checkbox"/>
 				<div class="img-upload-menu1">
@@ -158,7 +158,7 @@
 			<li>
 				<a href="#">
 					<div class="n-head">
-						FOLLOWINGS
+						FOLLOWING
 					</div>
 					<div class="n-bottom">
 						<?php echo $user->following;?>
@@ -168,7 +168,7 @@
 			<li>
 				<a href="#">
 					<div class="n-head">
-						FOLLOWERS
+						YOUR FOLLOWERS
 					</div>
 					<div class="n-bottom">
 						<?php echo $user->followers;?>
@@ -216,7 +216,7 @@
 					<i class="fa fa-camera" aria-hidden="true"></i>
 				</label>
 				<span class="span-text">
-					Change your profile photo
+					Update your profile
 				</span>
 				<input id="img-upload-btn" type="checkbox"/>
 				<div class="img-upload-menu">
