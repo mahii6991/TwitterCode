@@ -50,9 +50,9 @@
 	<div class="main-container">
 		<!-- content left-->
 		<div class="content-left">
-			<h1> Welcome to Twitter </h1>
+			<h1> Welcome to CODE_Tweeter </h1>
 			<br/>
-			<p> This is a twitter clone </p>
+			<p> This is a twitter clone. Let's CODE! </p>
 		</div><!-- content left ends -->	
 
 		<!-- content right ends -->
