@@ -82,10 +82,7 @@
 
 			</ul>
 		</div>
-		<!-- nav right ends-->
- 
 	</div>
-	<!-- nav ends -->
 
 </div><!-- nav container ends -->
 </div><!-- header wrapper end -->
@@ -139,7 +136,7 @@
 				<div class="acc">
 					<div class="acc-heading">
 						<h2>Account</h2>
-						<h3>Change your basic account settings.</h3>
+						<h3>Change your basic accounts settings here.</h3>
 					</div>
 					<div class="acc-content">
 					<form method="POST">
